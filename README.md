@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadAwais47cs
+- 👋 Hi, I’m @Muhammad Awais
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN 🔥
 - 📫 How to reach me Muhammadawais47cs@gmail.com
